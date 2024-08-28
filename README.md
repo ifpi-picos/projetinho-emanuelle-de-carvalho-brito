@@ -6,7 +6,7 @@ Este repositório contém um mini projeto da disciplina de algoritmos que consis
 
 ### Script principal de execução:
 
-tarefas.js
+`tarefas.js`
 
 
 
